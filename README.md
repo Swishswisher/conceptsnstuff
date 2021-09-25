@@ -1,2 +1,2 @@
 # conceptsnstuff
-it's where I practive front-end webdev
+it's where I practice front-end webdev
