@@ -1,2 +1,2 @@
 # conceptsnstuff
-it's where I practice front-end webdev
+It is a branch of the main file
